@@ -12,4 +12,5 @@ LungCancerTrain.py : All Image processing techniques and code for training the m
 
 dataset_create.py : For making the folders of both positive and negative cases and naming the images in required format
 
-This Project was done in partnership with my friend Tarun Bhargav Sriram as a project for Digital Image Processing elective
+This Project was done in partnership with my friend Tarun Bhargav Sriram as a project for Digital Image Processing elective.
+Any queries about the project, contact me at vinaybn8997@gmail.com
