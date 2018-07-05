@@ -1,12 +1,13 @@
 # Lung-Cancer-Detection-Using-Python
-Dataset : The Cancer Imaging Archive (TCIA)
+# Dataset
+The Cancer Imaging Archive (TCIA)
 http://www.cancerimagingarchive.net/
 
 Code have been written in Modular fashion
 
 PredictCancer.py : Final program for testing a image
 
-NeuralNetwork.py : MLP using SKlearn to learn the features and saving the Weights using pickel
+NeuralNetwork.py : MLP using SKlearn to learn the features and saving the Weights using pickle
 
 LungCancerTrain.py : All Image processing techniques and code for training the model are written here
 
@@ -15,7 +16,7 @@ dataset_create.py : For making the folders of both positive and negative cases a
 Test Case images of both categories and added in the repository along with its terminal output for reference
 
 ## Dependencies
-Python3 , 
+Python3 , OpenCV - cv2 , pickle , datafile libraries 
 
 ## Output
 
