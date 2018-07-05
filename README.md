@@ -5,9 +5,13 @@ http://www.cancerimagingarchive.net/
 
 ## Code files 
 Code have been written in Modular fashion
+
 PredictCancer.py : Final program for testing a image
+
 NeuralNetwork.py : MLP using SKlearn to learn the features and saving the Weights using pickle
+
 LungCancerTrain.py : All Image processing techniques and code for training the model are written here
+
 dataset_create.py : For making the folders of both positive and negative cases and naming the images in required format
 
 Test Case images of both categories and added in the repository along with its terminal output for reference
